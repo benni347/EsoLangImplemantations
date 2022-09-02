@@ -1,0 +1,6 @@
+[submodule "Langauges/T/tab"]
+	path = Langauges/T/tab
+	url = git@github.com:benni347/tab.git
+[submodule "Langauges/C/caeos"]
+	path = Langauges/C/caeos
+	url = git@github.com:benni347/caeos.git
