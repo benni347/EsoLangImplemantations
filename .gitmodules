@@ -4,3 +4,6 @@
 [submodule "Langauges/C/caeos"]
 	path = Langauges/C/caeos
 	url = git@github.com:benni347/caeos.git
+[submodule "Langauges/A/APLIASORTCSOGPEITCOVPLTVKOMCO"]
+	path = Langauges/A/APLIASORTCSOGPEITCOVPLTVKOMCO
+	url = git@github.com:benni347/APLIASORTCSOGPEITCOVPLTVKOMCO.git
